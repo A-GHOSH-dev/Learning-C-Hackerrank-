@@ -1,2 +1,2 @@
-# Learning-C++
+# Learning-C
 Hackerrank!!
